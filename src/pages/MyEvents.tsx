@@ -112,7 +112,7 @@ export default function MyEvents() {
 
               <div className="flex flex-wrap gap-3 mt-2">
                 <Link
-                  to={`/event/${event.id}`}
+                  to={`/gestor-eventos/event/${event.id}`}
                   className="bg-blue-100 text-blue-700 px-3 py-1 rounded hover:bg-blue-200 text-sm"
                 >
                   {t('myEvents.view')}
