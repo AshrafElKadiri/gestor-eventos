@@ -1,0 +1,98 @@
+{
+  "home.title": "Bienvenido al Gestor de Eventos",
+  "button.login": "Iniciar sesión",
+  "button.logout": "Cerrar sesión",
+  "button.register": "Registrarse",
+  "event.register": "Registrarse al evento",
+  "button.myevents": "Mis eventos",
+  "admin.panel": "Panel Administrador",
+  "button.enter": "Entrar",
+  "login.placeholderEmail": "Correo electrónico",
+  "login.placeholderPassword": "Contraseña",
+  "register.placeholderEmail": "Correo electrónico",
+  "register.placeholderPassword": "Contraseña",
+  "register.user": "Registrar usuario",
+
+  "home.availableEvents": "Eventos disponibles",
+  "home.palaceholderFind": "Buscar...",
+  "home.filters": "Filtros",
+  "home.searchLabel": "Nombre del evento",
+  "home.dateFrom": "Desde",
+  "home.dateTo": "Hasta",
+  "home.category": "Categoría",
+  "home.category.all": "Todas las categorías",
+  "home.category.music": "🎵 Música",
+  "home.category.tech": "💻 Tecnología",
+  "home.category.art": "🎨 Arte",
+  "home.category.sport": "🏅 Deporte",
+  "home.sortBy": "Ordenar por",
+  "home.sortBy.title": "Nombre",
+  "home.sortBy.date": "Fecha",
+  "home.sortDirection": "Dirección",
+  "home.sortDirection.asc": "Ascendente",
+  "home.sortDirection.desc": "Descendente",
+  "home.resetFilters": "Limpiar filtros",
+  "home.noEventsFound": "No se encontraron eventos.",
+  "home.viewDetails": "Ver detalles",
+  "home.event.locationAndCategory": "📍 {{location}} · {{category}}",
+
+  
+  "event.loading": "Cargando evento...",
+  "event.capacity": "Capacidad máxima",
+  "event.attendees": "asistentes",
+  "event.registered": "Registrados",
+  "event.loginToRegister": "Inicia sesión para registrarte.",
+  "event.alreadyRegistered": "Ya estás registrado en este evento",
+  "event.full": "Evento completo",
+  "event.join": "Unirse",
+  "event.category": "Categoría",
+
+  "myEvents.title": "Mis Eventos",
+  "myEvents.loading": "Cargando eventos...",
+  "myEvents.noEvents": "No estás inscrito en ningún evento.",
+  "myEvents.view": "Ver evento",
+  "myEvents.unregister": "Desinscribirse",
+  "myEvents.confirmUnregister": "¿Seguro que quieres desinscribirte de este evento?",
+  "myEvents.unregisterError": "Ocurrió un error al desinscribirse.",
+  "myEvents.loginRequired": "Debes iniciar sesión para ver tus eventos.",
+
+  "admin.title": "Gestión de Eventos",
+  "admin.create": "+ Crear Evento",
+  "admin.noEvents": "No hay eventos registrados.",
+  "admin.view": "Ver evento",
+  "admin.edit": "Editar",
+  "admin.attendees": "Ver registrados",
+  "admin.delete": "Eliminar",
+  "admin.confirmDelete": "¿Estás seguro de eliminar este evento?",
+
+  "eventCreate.title": "Crear Nuevo Evento",
+  "eventCreate.save": "Guardar evento",
+  "eventCreate.error": "Ocurrió un error al guardar el evento.",
+  "eventCreate.fields": {
+    "title": "Título",
+    "location": "Ubicación",
+    "selectCategory": "Seleccionar categoría",
+    "imageUrl": "URL de imagen",
+    "capacity": "Capacidad máxima",
+    "description": "Descripción del evento"
+  },
+  "categories": {
+    "music": "Música",
+    "tech": "Tecnología",
+    "art": "Arte",
+    "sports": "Deporte"
+  },
+
+  "eventEdit.title": "Editar Evento",
+  "eventEdit.save": "Actualizar evento",
+  "eventEdit.error": "No se pudo actualizar el evento.",
+
+  "attendees.title": "Usuarios registrados",
+  "attendees.noRecords": "No hay registros aún.",
+  "attendees.export": "Exportar a CSV",
+  "attendees.email": "Email",
+  "attendees.date": "Fecha de registro"
+
+
+
+}
